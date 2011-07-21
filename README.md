@@ -3,7 +3,7 @@ Welcome to Project Glass
 An initiative by South-Pak, Inc.
 ----------------------------------
 
-**what we're doing**
+**what we're doing:**
 
 - Increasing transparency about what we do and how we do it.
 - Informing potential customers about our value added.
